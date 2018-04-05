@@ -1,24 +1,21 @@
 ---
-author: "Michael Henderson"
-date: 2014-09-28
-title: "Creating a New Theme"
-tags: [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-]
-categories: [
-    "Development",
-    "golang",
-    "index",
-	"Market",
-	"News"
-]
+author: Michael Henderson
+date: 2014-09-28 00:00:00 +0000
+title: Creating a New Theme
+tags:
+- go
+- golang
+- templates
+- themes
+- development
+categories:
+- Development
+- golang
+- index
+- Market
+- News
+
 ---
-
-
 ## Introduction
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.

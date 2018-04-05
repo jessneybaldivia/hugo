@@ -1,21 +1,19 @@
 ---
-date: 2014-03-10
-title: "Migrate to Hugo from Jekyll"
-tags: [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-    "jekyll",
-]
-categories: [
-    "Development",
-    "golang",
-    "index",
-]
----
+date: 2014-03-10 00:00:00 +0000
+title: Migrate to Hugo from Jekyll
+tags:
+- go
+- golang
+- templates
+- themes
+- development
+- jekyll
+categories:
+- Development
+- golang
+- index
 
+---
 ## Move static content to `static`
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
 With Jekyll, something that looked like

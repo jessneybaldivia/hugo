@@ -1,23 +1,20 @@
 ---
-title: "Jane Theme Preview"
-date: 2018-03-06T16:01:23+08:00
-lastmod: 2018-03-07T16:01:23+08:00
-draft: false
-tags: ["preview", "shortcodes", "tag-6"]
-categories: ["shortcodes", "index"]
-author: "Typora"
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-# comment: false
-# toc: false
-
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
-# reward: false
+title: Jane Theme Preview
+date: 2018-03-06 16:01:23 +0800
+lastmod: 2018-03-07 08:01:23 +0000
+tags:
+- preview
+- shortcodes
+- tag-6
+categories:
+- shortcodes
+- index
+author: Typora
+contentCopyright: <a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener"
+  target="_blank">See origin</a>
 mathjax: true
----
 
+---
 **Markdown** is created by [Daring Fireball](http://daringfireball.net/), the original guideline is [here](http://daringfireball.net/projects/markdown/syntax). Its syntax, however, varies between different parsers or editors. 
 
 Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.

@@ -1,15 +1,16 @@
 ---
-title: "About"
-date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
-menu: "main"
+title: About
+date: 2017-08-20 21:38:52 +0800
+lastmod: 2017-08-28 13:41:52 +0000
 weight: 50
-
-# you can close something for this content if you open it in config.toml.
 comment: false
 mathjax: false
----
+type: page
+menu:
+  main:
+    weight: 1
 
+---
 Hugo is a static site engine written in Go.
 
 

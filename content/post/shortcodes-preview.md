@@ -1,13 +1,16 @@
 ---
-title: "Shortcodes Preview"
-date: 2018-03-04T16:01:23+08:00
-lastmod: 2018-03-05T16:01:23+08:00
-draft: false
-tags: ["preview", "shortcodes", "tag-6"]
-categories: ["shortcodes", "index"]
+title: Shortcodes Preview
+date: 2018-03-04 16:01:23 +0800
+lastmod: 2018-03-05 08:01:23 +0000
+tags:
+- preview
+- shortcodes
+- tag-6
+categories:
+- shortcodes
+- index
+
 ---
-
-
 ## What a Shortcode is
 
 Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video `<iframes>`) to Markdown content. We think this contradicts the beautiful simplicity of Markdown's syntax.

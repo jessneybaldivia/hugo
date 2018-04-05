@@ -1,22 +1,17 @@
 ---
-title: "Syntax Highlighting"
-date: 2011-08-30T16:01:23+08:00
-lastmod: 2017-08-30T16:01:23+08:00
-draft: false
-tags: ["preview", "Syntax Highlighting", "tag-5"]
-categories: ["Syntax Highlighting", "index"]
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-# comment: false
+title: Syntax Highlighting
+date: 2011-08-30 16:01:23 +0800
+lastmod: 2017-08-30 08:01:23 +0000
+tags:
+- preview
+- Syntax Highlighting
+- tag-5
+categories:
+- Syntax Highlighting
+- index
 toc: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-# contentCopyright: false
-# reward: false
-# mathjax: false
+
 ---
-
-
 ```js
 function helloWorld () {
   alert("Hello, World!")
