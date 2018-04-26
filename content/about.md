@@ -11,6 +11,10 @@ menu:
     weight: 1
 
 ---
+## **New creation of original theme**
+
+Hugo has a lot of templates published on the net, but when designing the way you want it, you will create your own theme. To create a theme, first output the template with the following command.
+
 Hugo has a lot of templates published on the net, but when designing the way you want it, you will create your own theme. To create a theme, first output the template with the following command.
 
     $ hugo new theme ＜テーマ名＞
